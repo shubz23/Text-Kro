@@ -1,8 +1,8 @@
 
-# Talk-A-Tive
+# Text-Kro
 
-Talk-a-tive is a Full Stack Chatting App.
-Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
+Text-Kro is a Full Stack Chatting App.
+Uses Socket.io for real-time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
 **Client:** React JS
@@ -49,7 +49,7 @@ Start the server
 Start the Client
 
 ```bash
-  //open now terminal
+  //open a new terminal
   cd frontend
   npm start
 ```
@@ -57,7 +57,7 @@ Start the Client
   
 # Features
 
-### Authenticaton
+### Authentication
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
@@ -70,9 +70,9 @@ Start the Client
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
 ### Notifications 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group
+### Add or Remove users from the group
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
+### View Other User Profile
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
 ## Made By
 
