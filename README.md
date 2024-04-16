@@ -1,36 +1,24 @@
 
-# Text-Kro
+# Text-Kro: Real-time Chatting App
 
-Text-Kro is a Full Stack Chatting App.
-Uses Socket.io for real-time communication and stores user details in encrypted format in Mongo DB Database.
-## Tech Stack
+Text-Kro is a Full Stack Chatting App that enables users to engage in real-time conversations. It utilizes Socket.io for seamless communication and securely stores user details in an encrypted format in a MongoDB database.
 
-**Client:** React JS
+# Tech Stack
 
-**Server:** Node JS, Express JS
+- Client: React JS
+- Server: Node JS, Express JS
+- Database: MongoDB
 
-**Database:** Mongo DB
-  
-## Demo
+# Getting Started
 
-https://talk-a-tive.herokuapp.com/
+To get started with Text-Kro locally, follow these steps:
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-## Run Locally
+# Prerequisites
+- Ensure you have Node.js and npm installed on your machine.
 
-Clone the project
+# Installation
 
-```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
-```
-
-Go to the project directory
-
-```bash
-  cd mern-chat-app
-```
-
-Install dependencies
+1.**Install Dependencies:**
 
 ```bash
   npm install
@@ -54,8 +42,26 @@ Start the Client
   npm start
 ```
 
-  
+
+2. **Open your browser and navigate to**
+http://localhost:3000 to access the application.
+
 # Features
+- **Real-time Chat:** Engage in conversations with other users in real time.
+- **User Authentication:** Securely register and log in to your account.
+- **Encrypted Data Storage:** User details are stored in a MongoDB database in an encrypted format.
+
+# Usage
+1. Register for an account or log in to your existing account.
+2. Start chatting with other users by sending messages in the chat interface.
+  
+## Demo
+
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+## Run Locally
+
+  
+# Features Showcase
 
 ### Authentication
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
@@ -74,8 +80,6 @@ Start the Client
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
 ### View Other User Profile
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
-## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
 
   
