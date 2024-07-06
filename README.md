@@ -12,6 +12,7 @@ Text-Kro is a Full Stack Chatting App that enables users to engage in real-time 
 # Getting Started
 
 To get started with Text-Kro locally, follow these steps:
+Tutorial Video: https://drive.google.com/file/d/1U0FgsiH50QaD4VYdel7ZRvm6Ck-oMrYb/view?usp=sharing 
 
 # Prerequisites
 - Ensure you have Node.js and npm installed on your machine.
