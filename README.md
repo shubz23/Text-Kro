@@ -60,20 +60,17 @@ http://localhost:3000 to access the application.
 
 <hr/>
 
-<h3 align="center"> </h3>
+<h3 align="center"></h3>
 
 ![](./Images/group+notif.png)
 
 <hr/>
-
-## Run Locally
-
   
 # Features Showcase
 
 ### Authentication
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+![](.Images/login.png)
+![](.Images/signup.png)
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
 ### One to One chat
