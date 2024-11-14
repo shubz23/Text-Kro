@@ -5,9 +5,9 @@ Text-Kro is a Full Stack Chatting App that enables users to engage in real-time 
 
 <hr/>
 
-<div class="center-image">
+<p align="center">
   <img src="./frontend/public/favicon_.png" alt="Centered Image">
-</div>
+</p>
 
 <hr/>
 
