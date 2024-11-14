@@ -58,7 +58,7 @@ http://localhost:3000 to access the application.
   
 ## Demo
 
-![](./Images/group+notif.png)
+<img src="./Images/group+notif.png" />
   
 # Features Showcase
 
