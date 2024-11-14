@@ -3,6 +3,13 @@
 
 Text-Kro is a Full Stack Chatting App that enables users to engage in real-time conversations. It utilizes Socket.io for seamless communication and securely stores user details in an encrypted format in a MongoDB database.
 
+<hr/>
+
+![](./frontend/public/favicon_.png)
+
+<hr/>
+
+
 # Tech Stack
 
 - Client: React JS
