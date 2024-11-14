@@ -58,7 +58,12 @@ http://localhost:3000 to access the application.
   
 ## Demo
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+<hr/>
+
+<h3 align="center">User Registration</h3>
+
+![User Registration](./Images/group + notif.PNG)
+
 ## Run Locally
 
   
