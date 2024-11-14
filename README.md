@@ -67,22 +67,22 @@ http://localhost:3000 to access the application.
 # Features Showcase
 
 ### Authentication
-![](.Images/login.png)
-![](.Images/signup.png)
+![](./Photos/login.png)
+![](./Photos/signup.png)
 ### Real Time Chatting with Typing indicators
-![](.Images/real-time.png)
+![](./Photos/realtime.png)
 ### One to One chat
-![](.Images/mainscreen.png)
+![](./Photos/mainscreen.png)
 ### Search Users
-![](.Images/search.png)
+![](./Photos/search.png)
 ### Create Group Chats
-![](.Images/newgrp.png)
+![](./Photos/newgrp.png)
 ### Notifications 
-![](.Images/groupnotif.png)
+![](./Photos/group.png)
 ### Add or Remove users from the group
-![](.Images/add%20rem.png)
+![](./Photos/addrem.png)
 ### View Other User Profile
-![](.Images/profile.png)
+![](./Photos/profile.png)
 
 
   
