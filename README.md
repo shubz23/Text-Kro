@@ -60,9 +60,11 @@ http://localhost:3000 to access the application.
 
 <hr/>
 
-<h3 align="center">User Registration</h3>
+<h3 align="center"> </h3>
 
-![User Registration](./Images/group + notif.PNG)
+![](./Images/group+notif.png)
+
+<hr/>
 
 ## Run Locally
 
